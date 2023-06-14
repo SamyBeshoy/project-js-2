@@ -3,7 +3,7 @@
 document.title = "Project 1";
 document.body.style.cssText = "font-family: Arial, Helvetica, sans-serif;font-size: 14px; height: 100vh; background-image: linear-gradient(211deg, rgb(138, 209, 255), rgb(60, 201, 157), rgb(152, 255, 234));";
 let title = document.createElement("h3"); 
-title.innerHTML = "Click Her To Get Random Number";
+title.innerHTML = "Description Is : Click Her To Get Random Number";
 title.style.fontSize = "1.3em"
 document.body.appendChild(title);
 let parent = document.createElement("div");
