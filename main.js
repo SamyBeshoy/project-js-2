@@ -1,6 +1,6 @@
 "use strict";
 // strict mode helps developers write code that is more reliable and less error-prone.
-document.title = "Project 1";
+document.title = "Project 2";
 document.body.style.cssText = "font-family: Arial, Helvetica, sans-serif;font-size: 14px; height: 100vh; background-image: linear-gradient(211deg, rgb(138, 209, 255), rgb(60, 201, 157), rgb(152, 255, 234));";
 let title = document.createElement("h3"); 
 title.innerHTML = "Description Is : Click Her To Get Random Number";
